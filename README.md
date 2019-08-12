@@ -1,6 +1,7 @@
 # SSProto
 
 [![Build Status](https://travis-ci.com/Hexawolf/SSProto.svg?branch=dev)](https://travis-ci.com/Hexawolf/SSProto)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHexawolf%2FSSProto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHexawolf%2FSSProto?ref=badge_shield)
 
 SSProto is a fairly simple but flexible and secure TCP protocol for deploying
 game client updates. Initially, it was developed as a part of Hexamine project
@@ -40,3 +41,6 @@ This software and most of it's code (except utils.go file) is available under
 MIT license. The utils.go is not licensed at all: you are hereby granted to do
 anything you want with the code there.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHexawolf%2FSSProto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHexawolf%2FSSProto?ref=badge_large)
